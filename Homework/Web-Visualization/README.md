@@ -1,5 +1,5 @@
 # Web Visualization Dashboard (Latitude-WeatherPy)
-## Data Visualization: https://syu2017.github.io/Latitude--Web-Visualization-Dashboard--HTML-Bootstrap/
+## Data Visualization: 
 
 #  Latitude - Latitude Analysis Dashboard 
 
