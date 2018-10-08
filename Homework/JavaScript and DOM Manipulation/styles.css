@@ -1,0 +1,32 @@
+body {
+  background: LightSteelBlue;
+}
+
+h1{text-align: center;
+   width: 100%;
+}
+.table td {
+   text-align: center;   
+}
+.form-control {
+  display: inline-block;
+  width: 250px;
+  margin-top: 50px;
+}
+/* Pagination links */
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+}
+
+/* Style the active/current link */
+.pagination a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Add a grey background color on mouse-over */
+.pagination a:hover:not(.active) {background-color: #ddd;}
