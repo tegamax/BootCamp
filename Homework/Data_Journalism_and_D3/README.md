@@ -12,7 +12,7 @@ The editor wants to run a series of feature stories about the health risks facin
 
 ### Level 1: D3 Dabbler
 
-![4-scatter](Images/4-scatter.jpg)
+![4-scatter](https://github.com/tegamax/BootCamp/blob/master/Homework/Data_Journalism_and_D3/4-scatter.jpg)
 
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
